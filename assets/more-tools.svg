@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="222.38" height="48" viewBox="0 0 1186 256" fill="none" role="img" aria-label="Laragon, Tailscale, FluidSIM, Omron CX-Programmer">
+<title>Laragon, Tailscale, FluidSIM, Omron CX-Programmer</title>
+<g transform="translate(30 0)">
+<rect width="256" height="256" rx="60" fill="#0E83CD" shape-rendering="geometricPrecision"/>
+<g transform="translate(58 58) scale(5.8333)" fill="#fff" shape-rendering="geometricPrecision"><path d="M12.843.979c-2.12-.096-3.477 1.439-3.477 1.439C2.52 2.5.791 8.429.75 8.552l-.248.74c-2.268 8.78 3.889 12.22 3.889 12.22.188.091.375-.066.375-.066.5-.31.252-.53.252-.53-1.43-1.742-1.595-5.864-1.596-5.899-.64-.532-1.248-1.318-1.111-2.342 0 0 .084-.51.584-.197 0 0 1.186.644 2.123.83-.001 0 .476.043.5.177 0 0 .374 1.752-.78 2.32.745.437 1.465.85 1.465.85.124 1.263.81 5.32.81 5.32.064.797.906.954.906.954.483.172 4.12.062 4.12.062 1.014-.044 1.062-.953 1.062-.953.015-.545.03-3.62.03-3.62.096-.575.766-.5.766-.5.703-.03.688.454.688.454-.017.515.045 3.496.045 3.496.03.858.781 1.125.781 1.125.488 0 .828-.004 1.365 0 .252.002 1.473 0 1.473 0 .55-.307 1.377-.969 1.377-.969 5.868-4.91 4.135-11.9 4.135-11.9C22.93 5.88 17.792 5.1 17.792 5.1c-.582-1.811-1.643-2.682-1.643-2.682-1.222-1.015-2.343-1.396-3.306-1.44zm5.006 4.273s1.845 3.08-1.727 7.86c.001.001-2.94 4.116-8.232 1.223 1.084.523 5.536 2.312 8.375-1.98 0 0 2.632-3.437 1.584-7.103zM6.703 8.868s1.296.036 1.341 1.82c0 0-1.02-2.668-3.271-.2 0 0 .404-1.729 1.93-1.62z"/></g>
+</g>
+<g transform="translate(330 0)">
+<rect width="256" height="256" rx="60" fill="#242938" shape-rendering="geometricPrecision"/>
+<g transform="translate(58 58) scale(5.8333)" fill="#fff" shape-rendering="geometricPrecision"><path d="M24 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm-9 9a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm0-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm6-6a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0-.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM3 24a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0-.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm18 .5a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0-.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM6 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm9-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0zm-3 2.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zM6 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM3 5.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></g>
+</g>
+<g transform="translate(630 0)">
+<rect width="256" height="256" rx="60" fill="#0091DC" shape-rendering="geometricPrecision"/>
+<rect x="40" y="72" width="80" height="16" fill="#FFFFFF"/>
+<rect x="40" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="104" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="120" width="64" height="16" fill="#FFFFFF"/>
+<rect x="40" y="136" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="168" width="16" height="16" fill="#FFFFFF"/>
+<rect x="152" y="72" width="64" height="16" fill="#FFFFFF"/>
+<rect x="136" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="136" y="104" width="16" height="16" fill="#FFFFFF"/>
+<rect x="152" y="120" width="48" height="16" fill="#FFFFFF"/>
+<rect x="200" y="136" width="16" height="16" fill="#FFFFFF"/>
+<rect x="200" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="136" y="168" width="64" height="16" fill="#FFFFFF"/>
+</g>
+<g transform="translate(930 0)">
+<rect width="256" height="256" rx="60" fill="#005EB8" shape-rendering="geometricPrecision"/>
+<rect x="56" y="72" width="48" height="16" fill="#FFFFFF"/>
+<rect x="40" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="104" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="104" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="120" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="136" width="16" height="16" fill="#FFFFFF"/>
+<rect x="40" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="104" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="56" y="168" width="48" height="16" fill="#FFFFFF"/>
+<rect x="136" y="72" width="16" height="16" fill="#FFFFFF"/>
+<rect x="200" y="72" width="16" height="16" fill="#FFFFFF"/>
+<rect x="136" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="200" y="88" width="16" height="16" fill="#FFFFFF"/>
+<rect x="152" y="104" width="16" height="16" fill="#FFFFFF"/>
+<rect x="184" y="104" width="16" height="16" fill="#FFFFFF"/>
+<rect x="168" y="120" width="16" height="16" fill="#FFFFFF"/>
+<rect x="152" y="136" width="16" height="16" fill="#FFFFFF"/>
+<rect x="184" y="136" width="16" height="16" fill="#FFFFFF"/>
+<rect x="136" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="200" y="152" width="16" height="16" fill="#FFFFFF"/>
+<rect x="136" y="168" width="16" height="16" fill="#FFFFFF"/>
+<rect x="200" y="168" width="16" height="16" fill="#FFFFFF"/>
+</g>
+</svg>
